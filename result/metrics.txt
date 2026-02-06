@@ -1,0 +1,37 @@
+House Price Prediction – Model Evaluation Results
+
+---------------------------------------------
+Model: Linear Regression
+Train R² : 63.36%
+Test R²  : 64.61%
+MSE      : 4,787,247,895
+MAE      : 50,959.76
+RMSE     : 69,189.94
+
+---------------------------------------------
+Model: Ridge Regression
+Train R² : 63.36%
+Test R²  : 64.61%
+MSE      : 4,787,345,663
+MAE      : 50,959.82
+RMSE     : 69,190.65
+
+---------------------------------------------
+Model: Lasso Regression
+Train R² : 63.36%
+Test R²  : 64.61%
+MSE      : 4,787,251,164
+MAE      : 50,959.78
+RMSE     : 69,189.96
+
+---------------------------------------------
+Model: Random Forest
+Train R² : 97.46%
+Test R²  : 82.14%
+MSE      : 2,415,359,160
+MAE      : 31,990.55
+RMSE     : 49,146.30
+
+---------------------------------------------
+Best Model: Random Forest Regressor
+Reason: Lowest RMSE and highest Test R²
