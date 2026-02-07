@@ -55,3 +55,8 @@ The project demonstrates that the choice of a model is determined by the complex
 For ensembling, linear models are good baselines, although other models such as ensemble models can be used.
 Random Forest are more effective where the relationships are non-linear.
 
+---
+   ```bash
+   git clone https://github.com/Sabirhusseinbalal/house-price-prediction-ml.git
+   ```
+
