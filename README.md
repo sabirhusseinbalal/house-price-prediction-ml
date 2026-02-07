@@ -45,7 +45,7 @@ house-price-prediction-ml/
 │   ├── train_models.py
 │   ├── evaluate.py
 │   └── main.py
-├── results/
+├── result/
 │   └── metrics.txt
 ├── requirements.txt
 └── README.md
@@ -54,3 +54,4 @@ house-price-prediction-ml/
 The project demonstrates that the choice of a model is determined by the complexity of data.
 For ensembling, linear models are good baselines, although other models such as ensemble models can be used.
 Random Forest are more effective where the relationships are non-linear.
+
