@@ -59,6 +59,7 @@ Random Forest are more effective where the relationships are non-linear.
    ```bash
    git clone https://github.com/Sabirhusseinbalal/house-price-prediction-ml.git
    ```
+---
 
 ## Machine Learning Roadmap (Beginner → Advanced)
 
@@ -123,6 +124,7 @@ Random Forest are more effective where the relationships are non-linear.
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
+
 
 
 
