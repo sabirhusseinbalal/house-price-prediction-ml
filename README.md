@@ -2,8 +2,7 @@
 
 ## Description
 A machine learning project to predict house prices based on California Housing dataset.
-This is aimed at comparing various regression models using the same data and comprehending.
-why certain models outperform other models.
+This is aimed at comparing various regression models using the same data and comprehending. to understand why some models work better than others on this data.
 
 ## Dataset
 - California Housing Dataset
@@ -32,7 +31,7 @@ why certain models outperform other models.
 
 ## Results Summary
 - Linear, Ridge and Lasso did the same.
-- The highest performance was reached by Random Forest.
+- Random Forest performed better on this dataset.
 - The non-linear relationships were better modeled by Random Forest than by linear models.
 
 ## Project Structure
@@ -52,7 +51,7 @@ house-price-prediction-ml/
 
 ## Conclusion
 The project demonstrates that the choice of a model is determined by the complexity of data.
-For ensembling, linear models are good baselines, although other models such as ensemble models can be used.
+Linear models are good baseline models for comparison, although other models such as ensemble models can be used.
 Random Forest are more effective where the relationships are non-linear.
 
 ---
@@ -124,6 +123,7 @@ Random Forest are more effective where the relationships are non-linear.
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
+
 
 
 
