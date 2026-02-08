@@ -67,7 +67,7 @@ Random Forest are more effective where the relationships are non-linear.
 ### Stage 1: Regression Foundations
 -  [***simple-regression-lab***](https://github.com/sabirhusseinbalal/simple-regression-lab)
 - 👉 **house-price-prediction-ml**
-- ***same-data-different-models***
+- [***same-data-different-models***](https://github.com/sabirhusseinbalal/same-data-different-models)
 
 ---
 
@@ -123,6 +123,7 @@ Random Forest are more effective where the relationships are non-linear.
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
+
 
 
 
