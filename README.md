@@ -1,8 +1,8 @@
 # House Price Prediction (ML)
 
 ## Description
-A machine learning project to predict house prices based on California Housing dataset.
-This is aimed at comparing various regression models using the same data and comprehending. to understand why some models work better than others on this data.
+A Machine learning project to predict house prices using California Housing data.
+This is to compare different regression models, all based on the same data and to understand why some models work better than others on this data.
 
 ## Dataset
 - California Housing Dataset
@@ -123,8 +123,6 @@ Random Forest are more effective where the relationships are non-linear.
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
-
-
 
 
 
