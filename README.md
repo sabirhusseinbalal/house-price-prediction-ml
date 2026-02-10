@@ -62,7 +62,7 @@ Random Forest are more effective where the relationships are non-linear.
    ```
 ---
 
-## Machine Learning Roadmap (Beginner → Advanced)
+## Machine Learning (Beginner → Advanced)
 
 ---
 
@@ -125,6 +125,7 @@ Random Forest are more effective where the relationships are non-linear.
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
+
 
 
 
