@@ -35,6 +35,7 @@ This is to compare different regression models, all based on the same data and t
 - The non-linear relationships were better modeled by Random Forest than by linear models.
 
 ## Project Structure
+```
 house-price-prediction-ml/
 ├── data/
 │   └── housing.csv
@@ -48,6 +49,7 @@ house-price-prediction-ml/
 │   └── metrics.txt
 ├── requirements.txt
 └── README.md
+```
 
 ## Conclusion
 The project demonstrates that the choice of a model is determined by the complexity of data.
@@ -123,6 +125,7 @@ Random Forest are more effective where the relationships are non-linear.
 - end-to-end-ml-system
 - ml-pipeline-project
 - model-monitoring-simulation
+
 
 
 
