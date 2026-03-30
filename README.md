@@ -2,7 +2,6 @@
 
 ## Description
 A Machine learning project to predict house prices using California Housing data.
-This is to compare different regression models, all based on the same data and to understand why some models work better than others on this data.
 
 ## Dataset
 - California Housing Dataset
@@ -50,11 +49,6 @@ house-price-prediction-ml/
 ├── requirements.txt
 └── README.md
 ```
-
-## Conclusion
-The project demonstrates that the choice of a model is determined by the complexity of data.
-Linear models are good baseline models for comparison, although other models such as ensemble models can be used.
-Random Forest are more effective where the relationships are non-linear.
 
 ---
    ```bash
