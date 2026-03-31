@@ -3,6 +3,9 @@
 ## Description
 A Machine learning project to predict house prices using California Housing data.
 
+**YouTube Video:**
+[House Price Prediction | Machine Learning Project 2](https://youtu.be/FO-MNmWJQxs?si=tBWcTD7qq273bzp3)]
+
 ## Dataset
 - California Housing Dataset
 - Target column: `median housing value`
@@ -120,10 +123,5 @@ house-price-prediction-ml/
 - ml-pipeline-project
 - model-monitoring-simulation
 
-
-
-
-
-
-
-
+**Watch Full YouTube Playlist:**
+[[Machine Learning (Beginner → Advanced)](https://youtube.com/playlist?list=PLBslpEV463BcknHrcoF_OJDyutuE1DneY&si=7PfeO4OSQCqh1wEI)]
