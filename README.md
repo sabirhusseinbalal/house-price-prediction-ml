@@ -71,7 +71,7 @@ house-price-prediction-ml/
 ---
 
 ### Stage 2: Regression Deep Dive
-- regression-error-analysis
+- [***regression-error-analysis***](https://github.com/sabirhusseinbalal/regression-error-analysis)
 - feature-engineering-regression
 - regression-from-scratch
 
